@@ -1,6 +1,6 @@
 # Asynchronous JavaScript And XML
 
-[_Notes from W3schools.com_](https://www.w3schools.com/xml/ajax_intro.asp)
+[_These notes are from W3schools.com_](https://www.w3schools.com/xml/ajax_intro.asp)
 
 <br>
 
