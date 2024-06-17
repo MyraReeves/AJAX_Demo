@@ -1,6 +1,8 @@
 # Asynchronous JavaScript And XML
 
-<!-- These notes are from W3schools.com -->
+<span style="color:lightblue">[Notes from W3schools.com]</span>
+
+<br>
 
 AJAX is a technique for accessing web servers from a web page.
 
