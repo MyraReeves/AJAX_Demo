@@ -1,6 +1,6 @@
 # Asynchronous JavaScript And XML
 
-<span style="color:lightblue">[Notes from W3schools.com]</span>
+[_Notes from W3schools.com_]
 
 <br>
 
